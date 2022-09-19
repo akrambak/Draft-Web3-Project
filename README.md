@@ -5,3 +5,4 @@ Draft Web3 Project
 - [ ] The Complete Guide to Full Stack Web3 Development ( https://dev.to/edge-and-node/the-complete-guide-to-full-stack-web3-development-4g74 )
 - [ ] How to create and deploy an ERC20 token ( https://www.quicknode.com/guides/solidity/how-to-create-and-deploy-an-erc20-token )
 - [ ] https://www.quicknode.com/guides/solidity/how-to-create-and-deploy-an-erc20-token ( https://www.theinsaneapp.com/2022/05/best-web3-projects.html )
+- [ ] https://learn.figment.io/tutorials
